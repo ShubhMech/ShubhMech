@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhMech
-- 👀 I’m interested in Data And Business Analytics, Supply Chain Management, Machine Learning and Depp Learning
-- 🌱 I’m currently learning for internship opportunities matching my skills
+- 👀 I’m interested in Data And Business Analytics, Supply Chain Management and Operations Management, Machine Learning and Deep Learning
+- 🌱 I’m currently looking for internship opportunities matching my skills
 - 💞️ I’m looking to collaborate on Industry-Relevant Projects
 - 📫 How to reach me: mail me at mey207647@mech.iitd.ac.in
 
